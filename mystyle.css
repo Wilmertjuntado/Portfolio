@@ -1,0 +1,11 @@
+.my-bg {
+    background-color: #e7dfd8;
+}
+
+.my-bg .my-bg1 {
+    background-color: #e9bd97;
+}
+
+.nav-link.bold {
+    font-weight: bold;
+}
