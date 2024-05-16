@@ -28,9 +28,9 @@ Period covered - 2020 to 2022
 
 ## Problem Statement
 
-For the past few years, Yellevate has been struggling with client disputes*. This has been a huge financial
-burden for the company: statistically, nearly 20% of the disputes raised against the Company resulted in a
-payment opt-out and this has led to an approximate 5% annual loss of revenue (in USD).
+Yellevate has been struggling with client disputes for the past few years*. This has been a huge financial
+burden for the company, Statistically, nearly 20% of the conflicts raised against the Company resulted in a
+payment opt-out as it led to an approximate 5% annual loss of revenue (in USD).
 
 Our team were tasked to identify their causes and come up with actionable strategies to solve them.
 
