@@ -22,6 +22,7 @@ Period covered - 2020 to 2022
   - [Excel](https://drive.google.com/drive/folders/1volhDIgOOEKsDRPH_Adb47j6hFbCkz9x?usp=sharing)
 - [Annex 2](#annex-2)
   - [SQL](https://drive.google.com/drive/folders/1volhDIgOOEKsDRPH_Adb47j6hFbCkz9x?usp=sharing)
+- [Contributors](#contributors)
 
 ## Problem Statement
 
