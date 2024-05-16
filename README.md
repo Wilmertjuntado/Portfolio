@@ -22,6 +22,8 @@ Period covered - 2020 to 2022
   - [Excel](https://drive.google.com/drive/folders/1volhDIgOOEKsDRPH_Adb47j6hFbCkz9x?usp=sharing)
 - [Annex 2](#annex-2)
   - [SQL](https://drive.google.com/drive/folders/1volhDIgOOEKsDRPH_Adb47j6hFbCkz9x?usp=sharing)
+- [Yellevate Final Report in PDF](#yellevate-final-report-in-pdf) 
+- [Yellevate Final Report in Slides](#yellevate-final-report-in-slides)
 - [Contributors](#contributors)
 
 ## Problem Statement
@@ -297,6 +299,13 @@ dispute_lost FROM yellevate_invoices
 ORDER BY settled_date DESC;
 
 ```
+
+## Yellevate Final Report in PDF 
+- [Click link here](https://drive.google.com/file/d/12a56a8_WX3U_Hnyu_9LglWkILuIWBhE-/view?usp=sharing)
+
+  
+## Yellevate Final Report in Slides 
+- [Click link here](https://drive.google.com/file/d/1xO3tZ_ysfvh_jXLb1HTuAgpeSktH5dqx/view?usp=sharing)
 
 
 ## Contributors
